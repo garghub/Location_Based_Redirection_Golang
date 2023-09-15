@@ -1,0 +1,12 @@
+{
+    "rules": [
+        {
+            "path": "/search",
+            "locations": {
+                "United States": "https://duckduckgo.com/?q=news",
+                "Luxembourg": "https://www.bing.com/search?q=news",
+                "Default": "https://www.google.com/search?q=news"
+            }
+        }
+    ]
+}
